@@ -1,0 +1,1 @@
+This Python script manages a multiple-choice test. It first registers students, then prompts the students to log in and take the test. For each student, it presents questions, evaluates answers, and provides a score and corresponding grade. Finally, it identifies the student with the highest score.
